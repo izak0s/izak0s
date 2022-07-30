@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Isaac 👋
+* Freelance Backend Developer & AI student
+* Hit me up: isaac@izak.amsterdam
 
 <!--
 **izak0s/izak0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
